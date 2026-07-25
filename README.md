@@ -34,14 +34,13 @@ Code with Purpose. Build with Intelligence.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharan201235&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan201235&layout=compact&theme=chartreuse-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharan202135&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan202135&layout=compact&theme=chartreuse-dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hariharan201235&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=hariharan202135&theme=chartreuse-dark&hide_border=true"/>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
