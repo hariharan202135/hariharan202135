@@ -47,13 +47,13 @@ Code with Purpose. Build with Intelligence.
   <img src="https://streak-stats.demolab.com?user=hariharan202135&theme=chartreuse-dark&hide_border=true" />
 </p>
 ## 🚀 Featured Projects
+
 | Project | Description |
 |---------|-------------|
 | 🧠 **ThinkSpark** | Brain Testing Web Game using Flask, SQLite & JavaScript |
 | 👁️ **Lookify** | AI Image Recognition Web App using Flask & EfficientNetB0 |
 | 📰 **Fake News Detector** | Machine Learning + NLP based Fake News Detection |
 | 💼 **PlaceMe AI** | AI-powered Placement Preparation Platform *(In Progress)* |
-
 ---
 
 ## 🏆 Certifications
