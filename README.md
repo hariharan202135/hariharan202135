@@ -44,13 +44,8 @@ Code with Purpose. Build with Intelligence.
 ```
 ## 📊 GitHub Statistics
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=hariharan202135&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan202135&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=hariharan202135&theme=chartreuse-dark&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hariharan202135&theme=radical&hide_border=true" />
-</p>
-
 ## 🚀 Featured Projects
 | Project | Description |
 |---------|-------------|
