@@ -31,11 +31,11 @@ Code with Purpose. Build with Intelligence.
 ```
 ## 📊 GitHub Statistics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hariharan201235&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan201235&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hariharan202135&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan202135&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hariharan201235&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hariharan202135&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ## 🚀 Featured Projects
@@ -65,9 +65,5 @@ Code with Purpose. Build with Intelligence.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hariharan202135&label=Profile%20Views&color=00ff00&style=flat-square"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hariharan201235.hariharan201235&left_color=grey&right_color=blue&left_text=visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hariharan202135.hariharan202135&left_color=grey&right_color=blue&left_text=visitors"/>
 </p>
-
-
-
-
